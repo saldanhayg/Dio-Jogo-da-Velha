@@ -1,10 +1,9 @@
 ## Projeto - Jogo da Velha
 
 <h1>
-    <img src="https://i.ibb.co/PtXC9tZ/DIO-Jogo-da-memoria.png" alt="jogo da memória" border="0">
+    <img src="https://i.ibb.co/8ztCDDr/Jogo-da-Velha.png" alt="jogo da memória" border="0">
 
 </h1>
- 
 
 ## Sobre: 
 <br>
